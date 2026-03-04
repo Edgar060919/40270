@@ -2,7 +2,7 @@ vader
 obiwan
 padme (muerta)
 quigon (muerto)
-yoda
+yoda (muerto)
 dooku (muerto)
 palpatine
 luke_sith (muerto)
