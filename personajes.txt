@@ -4,3 +4,4 @@ padme
 quigon (muerto)
 yoda
 dooku
+ahsoka
