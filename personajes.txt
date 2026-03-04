@@ -1,4 +1,6 @@
 anakin
 obiwan
 padme
-quigon
+quigon (muerto)
+yoda
+dooku
