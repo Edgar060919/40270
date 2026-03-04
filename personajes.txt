@@ -5,3 +5,5 @@ quigon (muerto)
 yoda
 dooku (muerto)
 palpatine
+luke_sith
+obiwan_sith
