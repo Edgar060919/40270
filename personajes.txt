@@ -1,7 +1,10 @@
 vader
-obiwan
+obiwan (muerto)
 padme (muerta)
 quigon (muerto)
 yoda
 dooku (muerto)
 palpatine
+luke
+leia
+han
