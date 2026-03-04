@@ -1,0 +1,4 @@
+anakin
+obiwan
+padme
+quigon
