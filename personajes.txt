@@ -1,6 +1,7 @@
-anakin
+vader
 obiwan
-padme
+padme (muerta)
 quigon (muerto)
 yoda
-dooku
+dooku (muerto)
+palpatine
