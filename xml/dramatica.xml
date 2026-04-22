@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dramatica SYSTEM "dramatica.dtd">
+<dramatica>
+  <obra>
+    <titulo>Hamlet</titulo>
+    <autor>William Shakespeare</autor>
+    <genero>Tragedia</genero>
+  </obra>
+</dramatica>

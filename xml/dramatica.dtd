@@ -1,0 +1,5 @@
+<!ELEMENT dramatica (obra)>
+<!ELEMENT obra (titulo, autor, genero)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT genero (#PCDATA)>
